@@ -1,0 +1,219 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+#header4-8 H1 {
+  text-align: center;
+  font-size: 36px;
+}
+#header4-8 P {
+  text-align: center;
+}
+#msg-box3-b .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #de8708;
+}
+#msg-box3-b .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-c .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #de8708;
+}
+#msg-box3-c .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#testimonials1-d .mbr-section__header {
+  color: #de8708;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-0 .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-0 .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-0 .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts1-x P {
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+#contacts1-x UL {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+
+#menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-5 .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-5 .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-5 .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-5 .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#menu-9 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-9.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-9 .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-9 .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-9 .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-9 .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#form1-i .mbr-header__text {
+  color: #de8708;
+}
+#menu-f .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-f .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-f .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-f .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-f .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+#menu-k .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-k.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-k .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-k .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-k .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-k .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-m .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #de8708;
+}
+#msg-box3-m .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#contacts1-x P {
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+#contacts1-x UL {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+
+#menu-n .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-n .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-n .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-n .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-n .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+#testimonials1-v .mbr-section__header {
+  color: #de8708;
+}
+
+#menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-p .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-p .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-p .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-p .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-s .mbr-navbar__section {
+  background: #de8708;
+}
+#menu-s .mbr-navbar__hamburger {
+  color: #2969b0;
+}
+#menu-s .mbr-navbar__items a {
+  font-size: 10px;
+}
+#menu-s .mbr-navbar__items a P {
+  font-size: 8px;
+  font-family: 'Roboto', sans-serif;
+}
